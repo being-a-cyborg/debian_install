@@ -2,4 +2,4 @@
 
 # mics
 
-sudo apt install stow mc neovim tcpdump dunst build-essential -yy
+sudo apt install tmux lazygit lsd stow mc neovim tcpdump dunst build-essential -yy
