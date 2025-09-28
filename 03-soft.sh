@@ -2,11 +2,4 @@
 
 # mics
 
-sudo apt install \
-  mc \
-  neovim \
-  tcpdump \
-  dunst \
-  build-essential \
-
--yy
+sudo apt install mc neovim tcpdump dunst build-essential -yy
