@@ -6,6 +6,7 @@ sudo apt install \
   mc \
   neovim \
   tcpdump \
-  dunst
+  dunst \
+  build-essential \
 
 -yy
