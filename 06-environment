@@ -1,0 +1,3 @@
+echo "QT_QPA_PLATFORMTHEME=gtk2" | sudo tee -a /etc/environment
+echo "XCURSOR_SIZE=16" | sudo tee -a /etc/environment
+echo "QT_AUTO_SCREEN_SCALE_FACTOR=0" | sudo tee -a /etc/environment
